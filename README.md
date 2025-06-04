@@ -20,5 +20,5 @@ Analyze monthly revenue and order volume from the `online_sales_data` table usin
 - Limited results using `LIMIT` keyword to find top-performing months
 
 ## Tools Used:
- **SQLite Online**
+- **SQLite Online**
 - **MS Excel** for preprocessing the dataset
